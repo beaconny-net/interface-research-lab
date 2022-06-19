@@ -2,9 +2,12 @@
 
 # Interface Research Lab
 
+Email questions or comments to: [irl@beaconny.net](mailto:irl@beaconny.net)
+
+
 ## Abstract
 
-This document proposes the creation a community technology education and digital fabrication lab in Beacon, NY.
+A proposal to create a community technology education and digital fabrication lab in Beacon, NY.
 
 
 ## Motivation
