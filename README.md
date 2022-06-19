@@ -46,7 +46,7 @@ In order to provide a learning environment for real-world web application develo
 
 ### Digital Fabrication
 
-We will provide access to and instruction in the design for and operation of digital fabrication machines such as laser cutters, 3D printers, and CNC routers. Instruction will follow a hands-on, project-based approach that culminates in the creation of useful and/or aesthetic physical objects. We will emphasize the ways in which these machines can be used right now to fabricate sellable products and will acquire or construct addition machines as necessary to support the expansion and distribution of fabrication capability.
+We will provide access to and instruction in the design for and operation of digital fabrication machines such as laser cutters, 3D printers, and CNC routers. Instruction will follow a hands-on, project-based approach that culminates in the creation of useful and/or aesthetic physical objects. We will emphasize the ways in which these machines can be used right now to fabricate sellable products and will acquire or construct additional machines as necessary to support the expansion and distribution of community fabrication capabilities.
 
 
 ## Initial Goals
