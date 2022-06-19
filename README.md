@@ -1,5 +1,6 @@
-# Interface Research Lab
+![logo](https://user-images.githubusercontent.com/585182/174485096-53d541dc-fbc7-44b5-b928-bd252199de50.png)
 
+# Interface Research Lab
 
 ## Abstract
 
