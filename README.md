@@ -29,7 +29,7 @@ The Interface Research Lab will exist to:
 
 ### Education
 
-Our primary directive is to empower our community with the knowledge and experience necessary to leverge the tools of technology toward creative, productive, and financially sustaining ends.
+Our primary directive is to empower our community with the knowledge and experience necessary to leverage the tools of technology toward creative, productive, and financially sustaining ends.
 
 Technological awareness and competency is increasingly important as we move into a future dominated by software, advanced manufacturing, artificial intelligence, and remote work. By leveraging the extensive knowledge and experience of IRL staff and local experts, we will guide and support community members in pursuit of their interests and achievement of their desired outcomes.
 
@@ -67,12 +67,12 @@ We will establish relationships with the local library, schools, government, bus
 
 ### Community Computing Cluster
 
-We will assemble a local cloud computing cluster from donated and/or new hardware and provide information and guidance to the community on why they would want to use it, what types of things they can do with it, and how to access it remotely from their computers and mobile devices via the Internet. This cluster will run IBM's [OpenStack](https://www.openstack.org/) open-source cloud computing infrastructure software and other open-source web technologies in order to provide the opportunity for community members to learn the inner workings of the platform and contribute changes that extend or correct its functionality. In addition to providing an environment for community members to learn about and experiement with software development and deployment, this cluster will provide free community website, web application, and file hosting, as well as an IOT (Internet of Things) hub that allows for communication and interaction with fun physical devices located within the community.
+We will assemble a local cloud computing cluster from donated and/or new hardware and provide information and guidance to the community on why they would want to use it, what types of things they can do with it, and how to access it remotely from their computers and mobile devices via the Internet. This cluster will run IBM's [OpenStack](https://www.openstack.org/) open-source cloud computing infrastructure software and other open-source web technologies in order to provide the opportunity for community members to learn the inner workings of the platform and contribute changes that extend or correct its functionality. In addition to providing an environment for community members to learn about and experiment with software development and deployment, this cluster will provide free community website, web application, and file hosting, as well as an IOT (Internet of Things) hub that allows for communication and interaction with fun physical devices located within the community.
 
 
 ### Game Design Workshops and Arcade Machine Fabrication
 
-We will conduct video game design workshops that instruct how to create a video game from scratch using moden web technologies such as HTML, CSS, and Javascript. We will design and fabricate low-cost, modular arcade machine cabinets which we will place in public locations throughout the community to showcase independent, locally-made games.
+We will conduct video game design workshops that instruct how to create a video game from scratch using modern web technologies such as HTML, CSS, and Javascript. We will design and fabricate low-cost, modular arcade machine cabinets which we will place in public locations throughout the community to showcase independent, locally-made games.
 
 
 ### Robot Builds and Battles
