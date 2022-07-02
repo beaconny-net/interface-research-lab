@@ -94,7 +94,7 @@ We need your local expertise and talent to make this effort maximally effective:
 - Community Organizers & Activists
 - Economists
 - Sociologists
-- Engineers (Electrical, Mechanical, Materials, Chemical, Computer)
+- Engineers (Electrical, Mechanical, Software, Materials, Chemical)
 
 Please join the discussion in the [Beacon Computing Club](https://computing.beaconny.net/) forum or email [irl@beaconny.net](mailto:irl@beaconny.net) to get involved.
 
@@ -110,11 +110,4 @@ Please join the discussion in the [Beacon Computing Club](https://computing.beac
 <a href="mailto:derek@derekenos.com">derek@derekenos.com</a>
 </p>
 
-Derek is a ...
-Derek is currently speaking in the third person because he's the only one here so far - please get involved!
-
-
-
-
-
-
+Derek is a software engineer, maker, and humanist who wants to improve his own condition and that of those around him, and believes that appropriate, concerted applications of modern technology are a realistic way to do that. He's designed and built many hardware and software systems over the years, including elements of the Rock Band 2 & 3 video game controllers, and is excited to put his skills and experience to work for the Beacon community. If you see him on the street, say hi!
