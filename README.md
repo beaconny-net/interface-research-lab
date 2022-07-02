@@ -92,7 +92,7 @@ We need your local expertise and talent to make this effort maximally effective:
 - Community Organizers & Activists
 - Educators & Researchers
 - Communicators, Administrators, & Marketers
-- Economists / Social Scientists
+- Economists & Social Scientists
 - Designers (Visual, Product, Interaction, Game)
 - Engineers (Electrical, Mechanical, Software, Materials, Chemical)
 
