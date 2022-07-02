@@ -87,13 +87,16 @@ The Interface Research Lab is part of the [Beacon Community Network](https://ope
 
 ## Get Involved
 
-- Physical & Digital Product Designers
+We need your local expertise and talent to make this effort maximally effective:
+
+- Designers (Visual, Product, Interaction)
 - Researchers, Communicators, & Marketers
+- Community Organizers & Activists
+- Economists
+- Sociologists
+- Engineers (Electrical, Mechanical, Materials, Chemical, Computer)
 
-- Economist
-- Sociologist
-- Electrical / Mechanical / Materials / Chemical Engineer
-
+Please join the discussion in the [Beacon Computing Club](https://computing.beaconny.net/) forum or email [irl@beaconny.net](mailto:irl@beaconny.net) to get involved.
 
 ## People
 
