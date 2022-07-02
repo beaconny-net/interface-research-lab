@@ -85,3 +85,29 @@ We will conduct robot design and building workshops that combine popular constru
 The Interface Research Lab is part of the [Beacon Community Network](https://opencollective.com/beacon-community-network) 501(c)(3) Collective. If you’d like to support this project, please [donate here](https://opencollective.com/beacon-community-network/projects/interface-research-lab/donate).
 
 
+## Get Involved
+
+We need your local expertise and talent:
+
+- Community Organizers & Activists
+- Educators & Researchers
+- Communicators, Administrators, & Marketers
+- Economists & Social Scientists
+- Designers (Visual, Product, Interaction, Game)
+- Engineers (Electrical, Mechanical, Software, Materials, Chemical)
+
+please join the discussion in the [Beacon Computing Club](https://computing.beaconny.net/) forum or email [irl@beaconny.net](mailto:irl@beaconny.net) to get involved.
+
+## People
+
+![derek_enos](https://user-images.githubusercontent.com/585182/177006172-6c305288-6d62-4b7b-b671-1e32a00c5849.png) 
+
+### Derek Enos
+
+<p>
+<a href="https://derekenos.com">derekenos.com</a>
+<br>
+<a href="mailto:derek@derekenos.com">derek@derekenos.com</a>
+</p>
+
+Derek is a software engineer, maker, and humanist who believes in the potential of technology as a force for good. He's built many hardware and software systems over the years, including elements of the Rock Band 2 & 3 video game controllers, and is excited to put his skills and experience to work for the Beacon community. If you see him on the street, say hi!
