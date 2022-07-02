@@ -85,3 +85,33 @@ We will conduct robot design and building workshops that combine popular constru
 The Interface Research Lab is part of the [Beacon Community Network](https://opencollective.com/beacon-community-network) 501(c)(3) Collective. If you’d like to support this project, please [donate here](https://opencollective.com/beacon-community-network/projects/interface-research-lab/donate).
 
 
+## Get Involved
+
+- Physical & Digital Product Designers
+- Researchers, Communicators, & Marketers
+
+- Economist
+- Sociologist
+- Electrical / Mechanical / Materials / Chemical Engineer
+
+
+## People
+
+![derek_enos](https://user-images.githubusercontent.com/585182/177006172-6c305288-6d62-4b7b-b671-1e32a00c5849.png) 
+
+### Derek Enos
+
+<p>
+<a href="https://derekenos.com">derekenos.com</a>
+<br>
+<a href="mailto:derek@derekenos.com">derek@derekenos.com</a>
+</p>
+
+Derek is a ...
+Derek is currently speaking in the third person because he's the only one here so far - please get involved!
+
+
+
+
+
+
