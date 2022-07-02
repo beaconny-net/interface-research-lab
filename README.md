@@ -2,7 +2,7 @@
 
 # Interface Research Lab
 
-Email questions or comments to: [irl@beaconny.net](mailto:irl@beaconny.net)
+Join the discussion in the [Beacon Computing Club](https://computing.beaconny.net/) forum or email questions, comments, and thoughts to:  [irl@beaconny.net](mailto:irl@beaconny.net)
 
 
 ## Abstract
