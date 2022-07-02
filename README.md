@@ -96,7 +96,7 @@ We need your local expertise and talent to make this effort maximally effective:
 - Sociologists
 - Engineers (Electrical, Mechanical, Software, Materials, Chemical)
 
-Please join the discussion in the [Beacon Computing Club](https://computing.beaconny.net/) forum or email [irl@beaconny.net](mailto:irl@beaconny.net) to get involved.
+please join the discussion in the [Beacon Computing Club](https://computing.beaconny.net/) forum or email [irl@beaconny.net](mailto:irl@beaconny.net) to get involved.
 
 ## People
 
