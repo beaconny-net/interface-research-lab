@@ -110,4 +110,4 @@ please join the discussion in the [Beacon Computing Club](https://computing.beac
 <a href="mailto:derek@derekenos.com">derek@derekenos.com</a>
 </p>
 
-Derek is a software engineer, maker, and humanist who believes in the potential of technology as a force for good. He's built many hardware and software systems over the years, including elements of the Rock Band 2 & 3 video game controllers, and is excited to put his skills and experience to work for the Beacon community. If you see him on the street, say hi!
+Derek is a software engineer, maker, and humanist who believes in the potential of technology as a force for good. He currently works as a Senior Software Engineer at the [Internet Archive](https://archive.org/about/) and has built many hardware and software systems over the years, including elements of the Rock Band 2 & 3 video game controllers, and is excited to put his skills and experience to work for the Beacon community. If you see him on the street, say hi!
