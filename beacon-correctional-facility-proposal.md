@@ -21,7 +21,7 @@ Despite the fact that Empire State Development previously accepted a 2019 propos
 
 > “My focus is on doing the one thing that would change the potential for that site, which is road access,” Kyriacou said. “Anything that follows that would be a big plus.”
 
-We contend a new road is not the thing our community needs, and that the existing location and accessibility is adequate to accomodate a local, community-centric purpose similar to that which we propose, making it possible to instead apply that $6M toward the material development of the proposal itself.
+We contend that the existing location and accessibility is adequate to accomodate a local, community-centric purpose similar to that which we propose, making it possible to instead apply that $6M toward the material development of the proposal itself.
 
 
 ## Functions
