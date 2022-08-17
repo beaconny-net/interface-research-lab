@@ -68,11 +68,15 @@ The depot's non-consumable inventory could serve as an extension of the Howland 
 
 ### Data Center
 
+So much of our modern social and productive lives rely on information technology infrastructure into which we have little visibility, and over which we have no control. Many community sustainability plans overlook the need for locally-managed information technology systems. To address this, we will construct a small-scale local data center from low-cost commodity hardware and open-source technologies that will be available to the community for:
+- hosting personal and business websites
+- running social media sites and forums
+- storing files
+- a learning environment for web designers and software developers
+
 ### Makerspace
 
-### Vertical Farm
-
-### Broadcast Studio
+### Community Agriculture Lab
 
 ### Community Classrooms
 
