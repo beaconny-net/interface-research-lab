@@ -37,12 +37,29 @@ Antony Tseng started a Beacon Repair Cafe in 2016 [[4](http://www.repaircafehv.o
 
 We will serve as a community hub for the disposal of E-waste such as computer equipment, consumer electronics, and household appliances. These materials will follow one of three tracks:
 
-1. The object will be restored to a working condition in collaboration with the <a href="#repair-cafe">Repair Cafe</a> and made available again to the community, either directly or through integration into one of our other functions
+1. The object will be restored to a working condition in collaboration with the <a href="#repair-cafe">Repair Cafe</a> and made available again to the community, either directly via the <a href="#materials-and-tool-depot">Materials and Tool Depot</a> or through integration into one of our other functions
 2. The object will be salavaged for parts that will be catalogued and submitted into the <a href="#materials-and-tool-depot">Materials and Tool Depot</a> inventory, with any remaining, unusable materials sent for waste collection
 3. The object will be sent for waste collection
 
 
 ### Materials and Tool Depot
+
+We will accumulate and maintain a catalogued inventory of consumable and non-consumable material goods that will be made available to the community at low or no cost, to either own or borrow, depending on the nature of the object. Materials will be procured through direct purchase, donations, and Repair Cafe outputs.
+
+Examples of objects in each of these classes:
+
+- Consumables
+  - raw materials (e.g. shredded plastic, scrap metal)
+  - construction materials (e.g. wood, sheet metal, bar stock)
+  - fasteners (e.g. screws, nails, bolts)
+  - electro-mechanical components (e.g. discretes, sensors, switches, motors, lights, speakers, microphones)
+- Non-Consumables
+  - hand tools (e.g. screwdrivers, hammers, saws, wrenches)
+  - power tools (e.g. drills, circular saws, grinders)
+  - electronics (e.g. computers, phones, cameras, radios)
+  - appliances (e.g. lamps, blenders)
+  - test equipment (e.g. force gauges, oscilloscopes, multimeters, logic analyzers)
+
 
 ### Data Center
 
