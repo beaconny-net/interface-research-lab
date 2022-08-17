@@ -15,6 +15,8 @@ This proposal details a local, grassroots redevelopment of the former Beacon Cor
 
 This proposal is motivated by a desire to activate this valuable, long-dormant property to the direct benefit of Beacon residents.
 
+## Criticism of Existing Initiatives
+
 Despite the fact that Empire State Development previously accepted a 2019 proposal from Urban Green Food [[1](https://esd.ny.gov/esd-media-center/press-releases/beacon-redevelopment-dutchess-county)] for the redevelopment of this property, no apparent progress has been made toward the realization of this plan, which focuses on conventional commercial and trourism-centric development, as opposed to the community-centric purposes that this document proposes. Complicating the realization of the Urban Green Food plan is the lack of convenient vehicular access to this property, with the SW approach of Matteawan Rd. as the only public ingress. Mayor Lee Kyriacou has proposed to address this through the construction of a new road [[2](https://highlandscurrent.org/2022/08/05/progress-slow-at-camp-beacon/)]:
 
 > Under Kyriacou’s plan, a road would be constructed from Route 52, diverging near the long driveway that leads to the Chemprene manufacturing facility, winding around the perimeter of the prison’s land and connecting with Matteawan Road, creating another point of entry to Camp Beacon.
@@ -29,6 +31,8 @@ Despite the fact that Empire State Development previously accepted a 2019 propos
 
 We contend that the existing location and accessibility is adequate to accomodate a local, community-centric purpose similar to that which we propose, making it possible to instead apply that $6M toward the material development of the proposal itself.
 
+Beacon resident Mark Roland spoke at a recent City Council meeting [[2b](https://www.youtube.com/watch?v=vR5edWUJAYc&t=1217s)] expressing disappointment over the lack of progress at the site and advocating that the City of Beacon take control of the Beacon Correctional Facility property:
+> rather than stockpiling more stores for our out-of-town visitors, or waiting for yet another Request for Proposal from the state to be awarded to yet another outside developer stepping in to tell us what they will do, we need to do it ourselves together. We need to create space to grow food and make things, create alternative career paths for our kids and build some resilience into our economy that does not rely exclusively on out-of-town visitors. We should make immediate arrangements to have Common Ground farm as a long-term tenant so that they can begin rehabilitating the soil. We should put together a board to manage the selection process for other qualified local businesses that would apply for space in one of the 22 buildings on the site. We can have our grant writer seek grants.
 
 ## Functions
 
@@ -102,9 +106,10 @@ TODO - a place for community members to socialize and showcase their work
 
 1. https://esd.ny.gov/esd-media-center/press-releases/beacon-redevelopment-dutchess-county
 2. https://highlandscurrent.org/2022/08/05/progress-slow-at-camp-beacon/
-3. https://en.wikipedia.org/wiki/Repair_Caf%C3%A9
-4. http://www.repaircafehv.org/beacon
-5. https://beaconlibraryofthings.weebly.com/
-6. https://www.makerspaces.com/what-is-a-makerspace/
-7. https://irl.beaconny.net/#motivation
+2b. https://www.youtube.com/watch?v=vR5edWUJAYc&t=1217s 
+4. https://en.wikipedia.org/wiki/Repair_Caf%C3%A9
+5. http://www.repaircafehv.org/beacon
+6. https://beaconlibraryofthings.weebly.com/
+7. https://www.makerspaces.com/what-is-a-makerspace/
+8. https://irl.beaconny.net/#motivation
  
