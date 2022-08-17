@@ -80,15 +80,17 @@ We will create a community technology education and digital fabrication facility
 
 More information about the Interface Research Lab can be found at: https://irl.beaconny.net/
 
-### Community Agriculture Lab
-
 ### Community Classrooms
 
-### Performance Venue
+TODO - classrooms that residents can book to teach a class
 
-### Art Gallery
+### Community Agriculture Lab
 
-### Cafe
+TODO - explore automated vertical and backyard farming
+
+### Community Performance Venue / Art Gallery / Game Room / Cafe
+
+TODO - a place for community members to socialize and showcase their work
 
 ## References
 
