@@ -51,15 +51,14 @@ We will serve as a community hub for the disposal of E-waste such as computer eq
 2. The object will be salavaged for parts that will be catalogued and submitted into the <a href="#materials-and-tool-depot">Materials and Tool Depot</a> inventory, with any remaining, unusable materials sent for waste collection
 3. The object will be sent for waste collection
 
+#### Disassembly Workshops
+
+The salavging of e-waste will provide an opportunity for residents, specifically young adults, to participate in the educational, hands-on process of disassembling electronic devices to discover the hidden inner workings and identify and recover useful components. Learning how objects are constructed through manual disassembly helps build physical dexterity, establishes an understanding of how things work, and provides insight into the designer's mindset, all of which may serve to inspire future invention and creation. 
+
 
 ### Plastic Waste Collection Hub
 
 Following the Precious Plastic [[6](https://preciousplastic.com/)] model, we will serve as a community hub for the dropoff of Polypropylene (PP #5) and Polyethylene (HDPE #2, LDPE #4) plastic waste, as well as consume appropriate <a href="#e-waste-recycling-and-recovery-hub">E-Waste Recycling and Recovery Hub</a> outputs, which we will sort, grind, and store to serve as injection molding stock for the <a href="#interface-research-lab">Interface Research Lab</a>. 
-
-
-#### Disassembly Workshops
-
-The salavging of e-waste will provide an opportunity for residents, specifically young adults, to participate in the educational, hands-on process of disassembling electronic devices to discover the hidden inner workings and identify and recover useful components. Learning how objects are constructed through manual disassembly helps build physical dexterity, establishes an understanding of how things work, and provides insight into the designer's mindset, all of which may serve to inspire future invention and creation. 
 
 
 ### Materials and Tool Depot
