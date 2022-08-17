@@ -74,7 +74,10 @@ So much of our modern social and productive lives rely on information technology
 - storing files
 - a learning environment for web designers and software developers
 
-### Makerspace
+### Interface Research Lab (i.e. Makerspace)
+
+The Interface Research Lab will in many ways resemble a typical makerspace [[6](https://www.makerspaces.com/what-is-a-makerspace/)], whose primary function is to facilitate community access to specialized tools and materials, but will differ in its project-driven nature and primary motivation to "help prepare our community for the future of work and industry through education in the concepts and tools of modern technology and participation in an exploratory process of new, local industry creation." [[7](https://irl.beaconny.net/#motivation)]
+
 
 ### Community Agriculture Lab
 
@@ -93,4 +96,6 @@ So much of our modern social and productive lives rely on information technology
 3. https://en.wikipedia.org/wiki/Repair_Caf%C3%A9
 4. http://www.repaircafehv.org/beacon
 5. https://beaconlibraryofthings.weebly.com/
+6. https://www.makerspaces.com/what-is-a-makerspace/
+7. https://irl.beaconny.net/#motivation
  
