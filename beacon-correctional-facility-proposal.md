@@ -41,6 +41,10 @@ We will serve as a community hub for the disposal of E-waste such as computer eq
 2. The object will be salavaged for parts that will be catalogued and submitted into the <a href="#materials-and-tool-depot">Materials and Tool Depot</a> inventory, with any remaining, unusable materials sent for waste collection
 3. The object will be sent for waste collection
 
+#### Disassembly Workshops
+
+The salavging of e-waste will provide an opportunity for residents, specifically young adults, to participate in the educational, hands-on process of disassembling electronic devices to discover the hidden inner workings and identify and recover useful components. Learning how objects are constructed through manual disassembly helps build physical dexterity, establishes an understanding of how things work, and provides insight into the designer's mindset, all of which may serve to inspire future invention and creation. 
+
 
 ### Materials and Tool Depot
 
@@ -60,6 +64,7 @@ Examples of objects in each of these classes:
   - appliances (e.g. lamps, blenders)
   - test equipment (e.g. force gauges, oscilloscopes, multimeters, logic analyzers)
 
+The depot's non-consumable inventory could serve as an extension of the Howland Library's existing Library of Things [[5](https://beaconlibraryofthings.weebly.com/)].
 
 ### Data Center
 
@@ -83,4 +88,5 @@ Examples of objects in each of these classes:
 2. https://highlandscurrent.org/2022/08/05/progress-slow-at-camp-beacon/
 3. https://en.wikipedia.org/wiki/Repair_Caf%C3%A9
 4. http://www.repaircafehv.org/beacon
+5. https://beaconlibraryofthings.weebly.com/
  
