@@ -102,6 +102,11 @@ We will create a community technology education and digital fabrication facility
 More information about the Interface Research Lab can be found at: https://irl.beaconny.net/
 
 
+## Contact
+
+Join the discussion in the [Beacon Computing Club](https://computing.beaconny.net/) forum or email questions, comments, and thoughts to: [irl@beaconny.net](mailto:irl@beaconny.net)
+
+
 ## People
 
 ![derek_enos](https://user-images.githubusercontent.com/585182/177006172-6c305288-6d62-4b7b-b671-1e32a00c5849.png) 
