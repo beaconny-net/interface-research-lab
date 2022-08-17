@@ -51,6 +51,12 @@ We will serve as a community hub for the disposal of E-waste such as computer eq
 2. The object will be salavaged for parts that will be catalogued and submitted into the <a href="#materials-and-tool-depot">Materials and Tool Depot</a> inventory, with any remaining, unusable materials sent for waste collection
 3. The object will be sent for waste collection
 
+
+### Plastic Waste Collection Hub
+
+Following the Precious Plastic [[6](https://preciousplastic.com/)] model, we will serve as a community hub for the dropoff of Polypropylene (PP #5) and Polyethylene (HDPE #2, LDPE #4) plastic waste, as well as consume appropriate <a href="#e-waste-recycling-and-recovery-hub">E-Waste Recycling and Recovery Hub</a> outputs, which we will sort, grind, and store to serve as injection molding stock for the <a href="#interface-research-lab">Interface Research Lab</a>. 
+
+
 #### Disassembly Workshops
 
 The salavging of e-waste will provide an opportunity for residents, specifically young adults, to participate in the educational, hands-on process of disassembling electronic devices to discover the hidden inner workings and identify and recover useful components. Learning how objects are constructed through manual disassembly helps build physical dexterity, establishes an understanding of how things work, and provides insight into the designer's mindset, all of which may serve to inspire future invention and creation. 
@@ -74,7 +80,7 @@ Examples of objects in each of these classes:
   - appliances (e.g. lamps, blenders)
   - test equipment (e.g. force gauges, oscilloscopes, multimeters, logic analyzers)
 
-The depot's non-consumable inventory could serve as an extension of the Howland Library's existing Library of Things [[6](https://beaconlibraryofthings.weebly.com/)].
+The depot's non-consumable inventory could serve as an extension of the Howland Library's existing Library of Things [[7](https://beaconlibraryofthings.weebly.com/)].
 
 ### Data Center
 
@@ -84,9 +90,9 @@ So much of our modern social and productive lives rely on information technology
 - storing files
 - a learning environment for web designers and software developers
 
-### Interface Research Lab (i.e. Makerspace)
+### Interface Research Lab
 
-We will create a community technology education and digital fabrication facility which, in many ways, resembles a typical makerspace [[7](https://www.makerspaces.com/what-is-a-makerspace/)], whose primary function is to facilitate community access to specialized tools and materials, but will differ in its project-driven nature and primary motivation "to help prepare our community for the future of work and industry through education in the concepts and tools of modern technology and participation in an exploratory process of new, local industry creation." [[8](https://irl.beaconny.net/#motivation)]
+We will create a community technology education and digital fabrication facility which, in many ways, resembles a typical makerspace [[8](https://www.makerspaces.com/what-is-a-makerspace/)], whose primary function is to facilitate community access to specialized tools and materials, but will differ in its project-driven nature and primary motivation "to help prepare our community for the future of work and industry through education in the concepts and tools of modern technology and participation in an exploratory process of new, local industry creation." [[9](https://irl.beaconny.net/#motivation)]
 
 More information about the Interface Research Lab can be found at: https://irl.beaconny.net/
 
@@ -125,7 +131,8 @@ Derek is a software engineer (currently @ [Internet Archive](https://archive.org
 3. https://www.youtube.com/watch?v=vR5edWUJAYc&t=1217s 
 4. https://en.wikipedia.org/wiki/Repair_Caf%C3%A9
 5. http://www.repaircafehv.org/beacon
-6. https://beaconlibraryofthings.weebly.com/
-7. https://www.makerspaces.com/what-is-a-makerspace/
-8. https://irl.beaconny.net/#motivation
+6. https://preciousplastic.com/
+7. https://beaconlibraryofthings.weebly.com/
+8. https://www.makerspaces.com/what-is-a-makerspace/
+9. https://irl.beaconny.net/#motivation
  
