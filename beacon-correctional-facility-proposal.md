@@ -40,7 +40,7 @@ Beacon resident Mark Roland spoke at a recent City Council meeting [[3](https://
 
 Repair Cafe is an established movement that empowers communities with the ability to repair "objects of everyday life such as electrical and mechanical devices, computers, bicycles, clothing, and other items." [[4](https://en.wikipedia.org/wiki/Repair_Caf%C3%A9)]
 
-Antony Tseng started a Beacon Repair Cafe in 2016 [[5](http://www.repaircafehv.org/beacon)] which was active for several years but is now dormant due to competing life obligations. Our plan will create a perpetual home for a Repair Cafe that is able to leverage, and able to be leveraged, by the <a href="#e-waste-recycling-and-recovery-hub">E-Waste Recycling and Recovery Hub</a> and <a href="#materials-and-tool-depot">Materials and Tool Depot</a> functions.
+Antony Tseng started a Beacon Repair Cafe in 2016 [[5](http://www.repaircafehv.org/beacon)] which was active for several years but is now dormant due to competing life obligations. Our plan will create a perpetual Repair Cafe that is able to leverage, and be leveraged by, the <a href="#e-waste-recycling-and-recovery-hub">E-Waste Recycling and Recovery Hub</a> and <a href="#materials-and-tool-depot">Materials and Tool Depot</a> functions.
 
 
 ### E-Waste Recycling and Recovery Hub
