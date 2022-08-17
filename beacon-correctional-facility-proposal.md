@@ -30,10 +30,17 @@ We contend that the existing location and accessibility is adequate to accomodat
 
 Repair Cafe is an established movement that empowers communities with the ability to repair "objects of everyday life such as electrical and mechanical devices, computers, bicycles, clothing, and other items." [[3](https://en.wikipedia.org/wiki/Repair_Caf%C3%A9)]
 
-Antony Tseng started a Beacon Repair Cafe in 2016 [[4](http://www.repaircafehv.org/beacon)] which was active for severals years but is now dormant due to competing life obligations. Our plan will create a perpetual home for a Repair Cafe that is able to leverage, and able to be leveraged, by the <a href="#e-waste-recycling-and-recovery-hub">E-Waste Recycling and Recovery Hub</a> and <a href="materials-and-tool-depot">Materials and Tool Depot</a> functions.
+Antony Tseng started a Beacon Repair Cafe in 2016 [[4](http://www.repaircafehv.org/beacon)] which was active for severals years but is now dormant due to competing life obligations. Our plan will create a perpetual home for a Repair Cafe that is able to leverage, and able to be leveraged, by the <a href="#e-waste-recycling-and-recovery-hub">E-Waste Recycling and Recovery Hub</a> and <a href="#materials-and-tool-depot">Materials and Tool Depot</a> functions.
 
 
 ### E-Waste Recycling and Recovery Hub
+
+We will serve as a community hub for the disposal of E-waste such as computer equipment, consumer electronics, and household appliances. These materials will follow one of three tracks:
+
+1. The object will be restored to a working condition in collaboration with the <a href="#repair-cafe">Repair Cafe</a> and made available again to the community, either directly or through integration into one of our other functions
+2. The object will be salavaged for parts that will be catalogued and submitted into the <a href="#materials-and-tool-depot">Materials and Tool Depot</a> inventory, with any remaining, unusable materials sent for waste collection
+3. The object will be sent for waste collection
+
 
 ### Materials and Tool Depot
 
