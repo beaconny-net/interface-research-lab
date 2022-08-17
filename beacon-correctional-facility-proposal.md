@@ -31,16 +31,16 @@ Despite the fact that Empire State Development previously accepted a 2019 propos
 
 We contend that the existing location and accessibility is adequate to accomodate a local, community-centric purpose similar to that which we propose, making it possible to instead apply that $6M toward the material development of the proposal itself.
 
-Beacon resident Mark Roland spoke at a recent City Council meeting [[2b](https://www.youtube.com/watch?v=vR5edWUJAYc&t=1217s)] expressing disappointment over the lack of progress at the site and advocating that the City of Beacon take control of the Beacon Correctional Facility property:
+Beacon resident Mark Roland spoke at a recent City Council meeting [[3](https://www.youtube.com/watch?v=vR5edWUJAYc&t=1217s)] expressing disappointment over the lack of progress at the site and advocating that the City of Beacon take control of the Beacon Correctional Facility property:
 > Rather than stockpiling more stores for our out-of-town visitors, or waiting for yet another Request for Proposal from the state to be awarded to yet another outside developer stepping in to tell us what they will do, we need to do it ourselves together. We need to create space to grow food and make things, create alternative career paths for our kids and build some resilience into our economy that does not rely exclusively on out-of-town visitors. We should make immediate arrangements to have Common Ground farm as a long-term tenant so they can begin rehabilitating the soil. We should put together a board to manage the selection process for other qualified local businesses that would apply for space in one of the 22 buildings on the site. We could have our grant writer seek grants. We should immediately apply for the $6M that was set aside when the prison closed to help repurpose the land. This can be held in an escrow account and managed by the city administrator and the board. It's coming up on 10 years since the prison closed and a group of citizens tried to get a plan like this enacted. We had the school district, Common Ground, and a number of small businesses and non-profits on-board, but without the city backing us, there was no way to get the state to take our proposal seriously. Meanwhile, the buildings are unmaintained and the ground is fallow to this day. It's a ridiculous situation that needs to be rectified now. We've made plenty of mistakes with our commonly-held property in the past 20 years. If we do this right, for the people who live here, we can make up for all of that, and then some.
 
 ## Functions
 
 ### Repair Cafe
 
-Repair Cafe is an established movement that empowers communities with the ability to repair "objects of everyday life such as electrical and mechanical devices, computers, bicycles, clothing, and other items." [[3](https://en.wikipedia.org/wiki/Repair_Caf%C3%A9)]
+Repair Cafe is an established movement that empowers communities with the ability to repair "objects of everyday life such as electrical and mechanical devices, computers, bicycles, clothing, and other items." [[4](https://en.wikipedia.org/wiki/Repair_Caf%C3%A9)]
 
-Antony Tseng started a Beacon Repair Cafe in 2016 [[4](http://www.repaircafehv.org/beacon)] which was active for severals years but is now dormant due to competing life obligations. Our plan will create a perpetual home for a Repair Cafe that is able to leverage, and able to be leveraged, by the <a href="#e-waste-recycling-and-recovery-hub">E-Waste Recycling and Recovery Hub</a> and <a href="#materials-and-tool-depot">Materials and Tool Depot</a> functions.
+Antony Tseng started a Beacon Repair Cafe in 2016 [[5](http://www.repaircafehv.org/beacon)] which was active for severals years but is now dormant due to competing life obligations. Our plan will create a perpetual home for a Repair Cafe that is able to leverage, and able to be leveraged, by the <a href="#e-waste-recycling-and-recovery-hub">E-Waste Recycling and Recovery Hub</a> and <a href="#materials-and-tool-depot">Materials and Tool Depot</a> functions.
 
 
 ### E-Waste Recycling and Recovery Hub
@@ -74,7 +74,7 @@ Examples of objects in each of these classes:
   - appliances (e.g. lamps, blenders)
   - test equipment (e.g. force gauges, oscilloscopes, multimeters, logic analyzers)
 
-The depot's non-consumable inventory could serve as an extension of the Howland Library's existing Library of Things [[5](https://beaconlibraryofthings.weebly.com/)].
+The depot's non-consumable inventory could serve as an extension of the Howland Library's existing Library of Things [[6](https://beaconlibraryofthings.weebly.com/)].
 
 ### Data Center
 
@@ -86,7 +86,7 @@ So much of our modern social and productive lives rely on information technology
 
 ### Interface Research Lab (i.e. Makerspace)
 
-We will create a community technology education and digital fabrication facility which, in many ways, resembles a typical makerspace [[6](https://www.makerspaces.com/what-is-a-makerspace/)], whose primary function is to facilitate community access to specialized tools and materials, but will differ in its project-driven nature and primary motivation "to help prepare our community for the future of work and industry through education in the concepts and tools of modern technology and participation in an exploratory process of new, local industry creation." [[7](https://irl.beaconny.net/#motivation)]
+We will create a community technology education and digital fabrication facility which, in many ways, resembles a typical makerspace [[7](https://www.makerspaces.com/what-is-a-makerspace/)], whose primary function is to facilitate community access to specialized tools and materials, but will differ in its project-driven nature and primary motivation "to help prepare our community for the future of work and industry through education in the concepts and tools of modern technology and participation in an exploratory process of new, local industry creation." [[8](https://irl.beaconny.net/#motivation)]
 
 More information about the Interface Research Lab can be found at: https://irl.beaconny.net/
 
@@ -106,7 +106,7 @@ TODO - a place for community members to socialize and showcase their work
 
 1. https://esd.ny.gov/esd-media-center/press-releases/beacon-redevelopment-dutchess-county
 2. https://highlandscurrent.org/2022/08/05/progress-slow-at-camp-beacon/
-2b. https://www.youtube.com/watch?v=vR5edWUJAYc&t=1217s 
+3. https://www.youtube.com/watch?v=vR5edWUJAYc&t=1217s 
 4. https://en.wikipedia.org/wiki/Repair_Caf%C3%A9
 5. http://www.repaircafehv.org/beacon
 6. https://beaconlibraryofthings.weebly.com/
