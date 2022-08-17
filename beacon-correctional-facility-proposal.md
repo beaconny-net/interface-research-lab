@@ -1,10 +1,10 @@
-<div>
-  <h1 style="position: relative; top: 2em;">Beacon Correctional Facility Proposal</h1>
+---
+title: Beacon Correctional Facility Redevelopment Proposal
+---
 
-  <img src="https://user-images.githubusercontent.com/585182/185203049-88986a0d-1ba3-498f-a410-ffb8c32500d2.png"
-       style="width: 100%; opacity: 0.6;"
-       >
-</div>
+<img src="https://user-images.githubusercontent.com/585182/185205618-9cb7db0a-0f9f-47ff-8c13-76ad9d0533d2.png"
+     style="width: 100%;"
+     >
 
 ## Abstract
 
