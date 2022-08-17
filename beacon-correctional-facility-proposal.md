@@ -102,6 +102,22 @@ TODO - explore automated vertical and backyard farming
 
 TODO - a place for community members to socialize and showcase their work
 
+
+## People
+
+![derek_enos](https://user-images.githubusercontent.com/585182/177006172-6c305288-6d62-4b7b-b671-1e32a00c5849.png) 
+
+### Derek Enos
+
+<p>
+<a href="https://derekenos.com">derekenos.com</a>
+<br>
+<a href="mailto:derek@derekenos.com">derek@derekenos.com</a>
+</p>
+
+Derek is a software engineer (currently @ [Internet Archive](https://archive.org/about/)), maker, and humanist who believes in the potential of technology as a force for good. He has built many hardware and software systems over the years, including elements of the Rock Band 2 & 3 video game controllers, and is excited to put his skills and experience to work for the Beacon community.
+
+
 ## References
 
 1. https://esd.ny.gov/esd-media-center/press-releases/beacon-redevelopment-dutchess-county
