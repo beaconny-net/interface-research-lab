@@ -76,8 +76,9 @@ So much of our modern social and productive lives rely on information technology
 
 ### Interface Research Lab (i.e. Makerspace)
 
-The Interface Research Lab will in many ways resemble a typical makerspace [[6](https://www.makerspaces.com/what-is-a-makerspace/)], whose primary function is to facilitate community access to specialized tools and materials, but will differ in its project-driven nature and primary motivation to "help prepare our community for the future of work and industry through education in the concepts and tools of modern technology and participation in an exploratory process of new, local industry creation." [[7](https://irl.beaconny.net/#motivation)]
+We will create a community technology education and digital fabrication facility which, in many ways, resembles a typical makerspace [[6](https://www.makerspaces.com/what-is-a-makerspace/)], whose primary function is to facilitate community access to specialized tools and materials, but will differ in its project-driven nature and primary motivation "to help prepare our community for the future of work and industry through education in the concepts and tools of modern technology and participation in an exploratory process of new, local industry creation." [[7](https://irl.beaconny.net/#motivation)]
 
+More information about the Interface Research Lab can be found at: https://irl.beaconny.net/
 
 ### Community Agriculture Lab
 
