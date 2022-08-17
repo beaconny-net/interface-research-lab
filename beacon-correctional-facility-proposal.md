@@ -34,13 +34,17 @@ We contend that the existing location and accessibility is adequate to accomodat
 Beacon resident Mark Roland spoke at a recent City Council meeting [[3](https://www.youtube.com/watch?v=vR5edWUJAYc&t=1217s)] expressing disappointment over the lack of progress at the site and advocating that the City of Beacon take control of the Beacon Correctional Facility property:
 > Rather than stockpiling more stores for our out-of-town visitors, or waiting for yet another Request for Proposal from the state to be awarded to yet another outside developer stepping in to tell us what they will do, we need to do it ourselves together. We need to create space to grow food and make things, create alternative career paths for our kids and build some resilience into our economy that does not rely exclusively on out-of-town visitors. We should make immediate arrangements to have Common Ground farm as a long-term tenant so they can begin rehabilitating the soil. We should put together a board to manage the selection process for other qualified local businesses that would apply for space in one of the 22 buildings on the site. We could have our grant writer seek grants. We should immediately apply for the $6M that was set aside when the prison closed to help repurpose the land. This can be held in an escrow account and managed by the city administrator and the board. It's coming up on 10 years since the prison closed and a group of citizens tried to get a plan like this enacted. We had the school district, Common Ground, and a number of small businesses and non-profits on-board, but without the city backing us, there was no way to get the state to take our proposal seriously. Meanwhile, the buildings are unmaintained and the ground is fallow to this day. It's a ridiculous situation that needs to be rectified now. We've made plenty of mistakes with our commonly-held property in the past 20 years. If we do this right, for the people who live here, we can make up for all of that, and then some.
 
+
 ## Functions
+
+This plan comprises a multitude of complementary functions that focus on local resource recovery, information technology infrastructure, technology education, product design, art, and advanced manufacturing. Many of these functions will necessarily facilitate social interaction and foster a greater sense of community cohesion and shared stake.
+
 
 ### Repair Cafe
 
 Repair Cafe is an established movement that empowers communities with the ability to repair "objects of everyday life such as electrical and mechanical devices, computers, bicycles, clothing, and other items." [[4](https://en.wikipedia.org/wiki/Repair_Caf%C3%A9)]
 
-Antony Tseng started a Beacon Repair Cafe in 2016 [[5](http://www.repaircafehv.org/beacon)] which was active for several years but is now dormant due to competing life obligations. Our plan will create a perpetual Repair Cafe that is able to leverage, and be leveraged by, the <a href="#e-waste-recycling-and-recovery-hub">E-Waste Recycling and Recovery Hub</a> and <a href="#materials-and-tool-depot">Materials and Tool Depot</a>.
+Beacon resident Antony Tseng started a Beacon Repair Cafe in 2016 [[5](http://www.repaircafehv.org/beacon)] which was active for several years but is now dormant due to competing life obligations. Our plan will create a perpetual Repair Cafe that is able to leverage, and be leveraged by, the <a href="#e-waste-recycling-and-recovery-hub">E-Waste Recycling and Recovery Hub</a> and <a href="#materials-and-tool-depot">Materials and Tool Depot</a>.
 
 
 ### E-Waste Recycling and Recovery Hub
@@ -81,6 +85,7 @@ Examples of objects in each of these classes:
 
 The depot's non-consumable inventory could serve as an extension of the Howland Library's existing Library of Things [[7](https://beaconlibraryofthings.weebly.com/)].
 
+
 ### Data Center
 
 So much of our modern social and productive lives rely on information technology infrastructure into which we have little visibility, and over which we have no control. Many community sustainability plans overlook the need for locally-managed information technology systems. To address this, we will construct a small-scale local data center from low-cost commodity hardware and open-source technologies that will be available to the community for:
@@ -88,6 +93,7 @@ So much of our modern social and productive lives rely on information technology
 - running social media sites and forums
 - storing files
 - a learning environment for web designers and software developers
+
 
 ### Interface Research Lab
 
