@@ -8,7 +8,7 @@ title: Beacon Correctional Facility Redevelopment Proposal
 
 ## Abstract
 
-This proposal details a local, grassroots redevelopment of the former Beacon Correctional Facility into a community education, materials, manufacturing, information technology, and arts resource.
+This document proposes that the former Beacon Correctional Facility be redeveloped as a community-centric resource recovery, technology education, and advanced manufacturing center.
 
 
 ## Motivation
@@ -37,7 +37,7 @@ Beacon resident Mark Roland spoke at a recent City Council meeting [[3](https://
 
 ## Functions
 
-This plan comprises a multitude of complementary functions that focus on local resource recovery, information technology infrastructure, technology education, product design, art, and advanced manufacturing. Many of these functions will necessarily facilitate social interaction and foster a greater sense of community cohesion and shared stake.
+This plan comprises a multitude of complementary functions that focus on uniting and empowering our community through local resource collection and recovery, information technology infrastructure, technology education, product design instruction, and advanced manufacturing capabilites. 
 
 
 ### Repair Cafe
