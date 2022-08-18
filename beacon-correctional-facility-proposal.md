@@ -99,7 +99,7 @@ So much of our modern social and productive lives rely on information technology
 
 We will create a community technology education and digital fabrication facility which, in many ways, resembles a typical makerspace [[8](https://www.makerspaces.com/what-is-a-makerspace/)], whose primary function is to facilitate community access to specialized tools and materials, but will differ in its project-driven nature and primary motivation "to help prepare our community for the future of work and industry through education in the concepts and tools of modern technology and participation in an exploratory process of new, local industry creation." [[9](https://irl.beaconny.net/#motivation)]
 
-More information about the Interface Research Lab can be found at: https://irl.beaconny.net/
+More information about the Interface Research Lab can be found at: [https://irl.beaconny.net/](https://irl.beaconny.net/)
 
 
 ## Contact
@@ -124,12 +124,12 @@ Derek is a software engineer (currently @ [Internet Archive](https://archive.org
 
 ## References
 
-1. https://esd.ny.gov/esd-media-center/press-releases/beacon-redevelopment-dutchess-county
-2. https://highlandscurrent.org/2022/08/05/progress-slow-at-camp-beacon/
-3. https://www.youtube.com/watch?v=vR5edWUJAYc&t=1217s
-4. https://en.wikipedia.org/wiki/Repair_Caf%C3%A9
-5. http://www.repaircafehv.org/beacon
-6. https://preciousplastic.com/
-7. https://beaconlibraryofthings.weebly.com/
-8. https://www.makerspaces.com/what-is-a-makerspace/
-9. https://irl.beaconny.net/#motivation
+1. [https://esd.ny.gov/esd-media-center/press-releases/beacon-redevelopment-dutchess-county](https://esd.ny.gov/esd-media-center/press-releases/beacon-redevelopment-dutchess-county)
+2. [https://highlandscurrent.org/2022/08/05/progress-slow-at-camp-beacon/](https://highlandscurrent.org/2022/08/05/progress-slow-at-camp-beacon/)
+3. [https://www.youtube.com/watch?v=vR5edWUJAYc&t=1217s](https://www.youtube.com/watch?v=vR5edWUJAYc&t=1217s)
+4. [https://en.wikipedia.org/wiki/Repair_Caf%C3%A9](https://en.wikipedia.org/wiki/Repair_Caf%C3%A9)
+5. [http://www.repaircafehv.org/beacon](http://www.repaircafehv.org/beacon)
+6. [https://preciousplastic.com/](https://preciousplastic.com/)
+7. [https://beaconlibraryofthings.weebly.com/](https://beaconlibraryofthings.weebly.com/)
+8. [https://www.makerspaces.com/what-is-a-makerspace/](https://www.makerspaces.com/what-is-a-makerspace/)
+9. [https://irl.beaconny.net/#motivation](https://irl.beaconny.net/#motivation)
