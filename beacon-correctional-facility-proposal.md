@@ -133,3 +133,4 @@ Derek is a software engineer (currently @ [Internet Archive](https://archive.org
 7. [https://beaconlibraryofthings.weebly.com/](https://beaconlibraryofthings.weebly.com/)
 8. [https://www.makerspaces.com/what-is-a-makerspace/](https://www.makerspaces.com/what-is-a-makerspace/)
 9. [https://irl.beaconny.net/#motivation](https://irl.beaconny.net/#motivation)
+
