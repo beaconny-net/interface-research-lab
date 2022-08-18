@@ -17,7 +17,7 @@ This proposal is motivated by a desire to activate this valuable, long-dormant p
 
 ## Criticism of Existing Initiatives
 
-Despite the fact that Empire State Development previously accepted a 2019 proposal from Urban Green Food [[1](https://esd.ny.gov/esd-media-center/press-releases/beacon-redevelopment-dutchess-county)] for the redevelopment of this property, no apparent progress has been made toward the realization of this plan, which focuses on conventional commercial and trourism-centric development, as opposed to the community-centric purposes that this document proposes. Complicating the realization of the Urban Green Food plan is the lack of convenient vehicular access to this property, with the SW approach of Matteawan Rd. as the only public ingress. Mayor Lee Kyriacou has proposed to address this through the construction of a new road [[2](https://highlandscurrent.org/2022/08/05/progress-slow-at-camp-beacon/)]:
+Despite the fact that Empire State Development previously accepted a 2019 proposal from Urban Green Food [[1](https://esd.ny.gov/esd-media-center/press-releases/beacon-redevelopment-dutchess-county)] for the redevelopment of this property, no apparent progress has been made toward the realization of this plan, which focuses on conventional commercial and tourism-centric development, as opposed to the community-centric purposes that this document proposes. Complicating the realization of the Urban Green Food plan is the lack of convenient vehicular access to this property, with the SW approach of Matteawan Rd. as the only public ingress. Mayor Lee Kyriacou has proposed to address this through the construction of a new road [[2](https://highlandscurrent.org/2022/08/05/progress-slow-at-camp-beacon/)]:
 
 > Under Kyriacou’s plan, a road would be constructed from Route 52, diverging near the long driveway that leads to the Chemprene manufacturing facility, winding around the perimeter of the prison’s land and connecting with Matteawan Road, creating another point of entry to Camp Beacon.
 
@@ -52,12 +52,12 @@ Beacon resident Antony Tseng started a Beacon Repair Cafe in 2016 [[5](http://ww
 We will serve as a community hub for the disposal of E-waste such as computer equipment, consumer electronics, and household appliances. These materials will follow one of three tracks:
 
 1. The object will be restored to a working condition in collaboration with the <a href="#repair-cafe">Repair Cafe</a> and made available again to the community, either directly via the <a href="#materials-and-tool-depot">Materials and Tool Depot</a> or through integration into one of our other functions
-2. The object will be salavaged for parts that will be catalogued and submitted into the <a href="#materials-and-tool-depot">Materials and Tool Depot</a> inventory, with any remaining, unusable materials sent for waste collection
+2. The object will be salvaged for parts that will be catalogued and submitted into the <a href="#materials-and-tool-depot">Materials and Tool Depot</a> inventory, with any remaining, unusable materials sent for waste collection
 3. The object will be sent for waste collection
 
 #### Disassembly Workshops
 
-The salavging of e-waste will provide an opportunity for residents, specifically young adults, to participate in the educational, hands-on process of disassembling electronic devices to discover the hidden inner workings and identify and recover useful components. Learning how objects are constructed through manual disassembly helps build physical dexterity, establishes an understanding of how things work, and provides insight into the designer's mindset, all of which may serve to inspire future invention and creation. 
+The salvaging of e-waste will provide an opportunity for residents, specifically young adults, to participate in the educational, hands-on process of disassembling electronic devices to discover the hidden inner workings and identify and recover useful components. Learning how objects are constructed through manual disassembly helps build physical dexterity, establishes an understanding of how things work, and provides insight into the designer's mindset, all of which may serve to inspire future invention and creation. 
 
 
 ### Plastic Waste Collection Hub
