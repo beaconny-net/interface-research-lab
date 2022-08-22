@@ -29,7 +29,7 @@ Despite the fact that Empire State Development previously accepted a 2019 propos
 
 > “My focus is on doing the one thing that would change the potential for that site, which is road access,” Kyriacou said. “Anything that follows that would be a big plus.”
 
-We contend that the existing location and accessibility is adequate to accommodate a local, community-centric purpose similar to that which we propose, making it possible to instead apply that $6M toward the material development of the proposal itself.
+We contend that the existing location and degree of accessibility is adequate to accommodate a local, community-centric purpose, making it possible to instead apply that $6M, which the state has allocated to support redevelopment of the site, toward the material development of the proposal itself.
 
 At a recent City Council meeting [[3](https://www.youtube.com/watch?v=vR5edWUJAYc&t=1217s)], a Beacon resident expressed disappointment over the lack of progress at the site and advocated that the City of Beacon take control of the Beacon Correctional Facility property:
 > Rather than stockpiling more stores for our out-of-town visitors, or waiting for yet another Request for Proposal from the state to be awarded to yet another outside developer stepping in to tell us what they will do, we need to do it ourselves together. We need to create space to grow food and make things, create alternative career paths for our kids and build some resilience into our economy that does not rely exclusively on out-of-town visitors.
