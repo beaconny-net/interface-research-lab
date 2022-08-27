@@ -44,12 +44,12 @@ This plan comprises a multitude of complementary functions that focus on uniting
 
 Repair Cafe is an established movement that empowers communities with the ability to repair "objects of everyday life such as electrical and mechanical devices, computers, bicycles, clothing, and other items." [[4](https://en.wikipedia.org/wiki/Repair_Caf%C3%A9)]
 
-A Repair Cafe was started in Beacon in 2016 [[5](http://www.repaircafehv.org/beacon)] and was active for several years, but is now dormant. Our plan will create a perpetual Repair Cafe that is able to leverage, and be leveraged by, the <a href="#e-waste-recycling-and-recovery-hub">E-Waste Recycling and Recovery Hub</a> and <a href="#materials-and-tool-depot">Materials and Tool Depot</a>.
+A Repair Cafe was started in Beacon in 2016 [[5](http://www.repaircafehv.org/beacon)] and was active for several years, but is now dormant. Our plan will create a perpetual Repair Cafe that is able to leverage, and be leveraged by, the <a href="#electronics-recycling-and-recovery-hub">Electronics Recycling and Recovery Hub</a> and <a href="#materials-and-tool-depot">Materials and Tool Depot</a>.
 
 
-### E-Waste Recycling and Recovery Hub
+### Electronics Recycling and Recovery Hub
 
-We will serve as a community hub for the disposal of E-waste such as computer equipment, consumer electronics, and household appliances. These materials will follow one of three tracks:
+We will serve as a community hub for the disposal of electronics such as computer equipment, consumer electronics, and household appliances. These materials will follow one of three tracks:
 
 1. The object will be restored to a working condition in collaboration with the <a href="#repair-cafe">Repair Cafe</a> and made available again to the community, either directly via the <a href="#materials-and-tool-depot">Materials and Tool Depot</a> or through integration into one of our other functions
 2. The object will be salvaged for parts that will be cataloged and submitted into the <a href="#materials-and-tool-depot">Materials and Tool Depot</a> inventory, with any remaining, unusable materials sent for waste collection
@@ -57,12 +57,12 @@ We will serve as a community hub for the disposal of E-waste such as computer eq
 
 #### Disassembly Workshops
 
-The salvaging of e-waste will provide an opportunity for residents, specifically young adults, to participate in the educational, hands-on process of disassembling electronic devices to discover the hidden inner workings and identify and recover useful components. Learning how objects are constructed through manual disassembly helps build physical dexterity, establishes an understanding of how things work, and provides insight into the designer's mindset, all of which may serve to inspire future invention and creation.
+The salvaging of electronics will provide an opportunity for residents, specifically young adults, to participate in the educational, hands-on process of disassembling electronic devices to discover the hidden inner workings and identify and recover useful components. Learning how objects are constructed through manual disassembly helps build physical dexterity, establishes an understanding of how things work, and provides insight into the designer's mindset, all of which may serve to inspire future invention and creation.
 
 
 ### Plastic Waste Collection Hub
 
-Following the Precious Plastic [[6](https://preciousplastic.com/)] model, we will serve as a community hub for the drop-off of Polypropylene (PP #5) and Polyethylene (HDPE #2, LDPE #4) plastic waste, as well as consume appropriate <a href="#e-waste-recycling-and-recovery-hub">E-Waste Recycling and Recovery Hub</a> outputs, which we will sort, grind, and store to serve as injection molding stock for the <a href="#interface-research-lab">Interface Research Lab</a>.
+Following the Precious Plastic [[6](https://preciousplastic.com/)] model, we will serve as a community hub for the drop-off of Polypropylene (PP #5) and Polyethylene (HDPE #2, LDPE #4) plastic waste, as well as consume appropriate <a href="#electronics-recycling-and-recovery-hub">Electronics Recycling and Recovery Hub</a> outputs, which we will sort, grind, and store to serve as injection molding stock for the <a href="#interface-research-lab">Interface Research Lab</a>.
 
 
 ### Materials and Tool Depot
