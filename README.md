@@ -4,8 +4,6 @@
 
 Join the discussion in the [Beacon Computing Club](https://computing.beaconny.net/) forum or email questions, comments, and thoughts to:  [irl@beaconny.net](mailto:irl@beaconny.net)
 
-Also see: [Beacon Correctional Facility Redevelopment Proposal](https://irl.beaconny.net/beacon-correctional-facility-proposal)
-
 
 ## Abstract
 
