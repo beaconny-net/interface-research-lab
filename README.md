@@ -98,6 +98,10 @@ We need your local expertise and talent:
 
 please join the discussion in the [Beacon Computing Club](https://computing.beaconny.net/) forum or email [irl@beaconny.net](mailto:irl@beaconny.net) to get involved.
 
+## Related
+
+IRL is included as a component in the [Beacon Correctional Facilty Redevelopment Proposal](beacon-correctional-facility-proposal)
+
 ## People
 
 ![derek_enos](https://user-images.githubusercontent.com/585182/177006172-6c305288-6d62-4b7b-b671-1e32a00c5849.png) 
