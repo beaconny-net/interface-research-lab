@@ -57,8 +57,7 @@ We will serve as a community hub for the disposal of electronics such as compute
 
 #### Disassembly Workshops
 
-The salvaging of electronics will provide an opportunity for residents, specifically young adults, to participate in the educational, hands-on process of disassembling electronic devices to discover the hidden inner workings and identify and recover useful components. Learning how objects are constructed through manual disassembly helps build physical dexterity, establishes an understanding of how things work, and provides insight into the designer's mindset, all of which may serve to inspire future invention and creation.
-
+We will hold disassembly workshops in which community members are invited to take apart a variety of items, that have been slated for salvage by the Electronics Recycling and Recovery Hub, in order to extract still-useful components, gain a valuable, hands-on understanding of the design and construction of everyday objects, and for the general joy of taking things apart, a practice which is often cited by professional engineers, designers, and inventors as being a formative part of their childhoods. 
 
 ### Plastic Waste Collection Hub
 
