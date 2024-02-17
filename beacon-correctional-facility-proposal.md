@@ -8,31 +8,12 @@ title: Beacon Correctional Facility Redevelopment Proposal
 
 ## Abstract
 
-This document proposes that the former Beacon Correctional Facility be redeveloped as a community-centric resource recovery, technology education, and advanced manufacturing center.
+This document proposes that the former Beacon Correctional Facility be redeveloped as a community-centric resource recovery, technology education, advanced manufacturing, and community sustainability research campus.
 
 
 ## Motivation
 
-This proposal is motivated by a desire to activate this valuable, long-dormant property to the direct benefit of Beacon residents.
-
-## Criticism of Existing Initiatives
-
-Despite the fact that Empire State Development previously accepted a 2019 proposal from Urban Green Food [[1](https://esd.ny.gov/esd-media-center/press-releases/beacon-redevelopment-dutchess-county)] for the redevelopment of this property, no apparent progress has been made toward the realization of this plan, which focuses on conventional commercial and tourism-centric development, as opposed to the community-centric purposes that this document proposes. Complicating the realization of the Urban Green Food plan is the lack of convenient vehicular access to this property, with the SW approach of Matteawan Rd. as the only public ingress. Mayor Lee Kyriacou has proposed to address this through the construction of a new road [[2](https://highlandscurrent.org/2022/08/05/progress-slow-at-camp-beacon/)]:
-
-> Under Kyriacou’s plan, a road would be constructed from Route 52, diverging near the long driveway that leads to the Chemprene manufacturing facility, winding around the perimeter of the prison’s land and connecting with Matteawan Road, creating another point of entry to Camp Beacon.
-
-...
-
-> For the proposal to move forward, he hopes the state will provide its $6 million for the road.
-
-...
-
-> “My focus is on doing the one thing that would change the potential for that site, which is road access,” Kyriacou said. “Anything that follows that would be a big plus.”
-
-We contend that the existing location and degree of accessibility is adequate to accommodate a local, community-centric purpose, making it possible to instead apply that $6M, which the state has allocated to support redevelopment of the site, toward the material development of the proposal itself.
-
-At a recent City Council meeting [[3](https://www.youtube.com/watch?v=vR5edWUJAYc&t=1217s)], a Beacon resident expressed disappointment over the lack of progress at the site and advocated that the City of Beacon take control of the Beacon Correctional Facility property:
-> Rather than stockpiling more stores for our out-of-town visitors, or waiting for yet another Request for Proposal from the state to be awarded to yet another outside developer stepping in to tell us what they will do, we need to do it ourselves together. We need to create space to grow food and make things, create alternative career paths for our kids and build some resilience into our economy that does not rely exclusively on out-of-town visitors.
+This proposal is motivated by a desire to activate this valuable, long-dormant property as a place where the people of Beacon can gain access to the space, tools, and information necessary to explore, prototype, test, and formalize solutions to our community's current and future challenges.
 
 
 ## Functions
@@ -44,7 +25,7 @@ This plan comprises a multitude of complementary functions that focus on uniting
 
 Repair Cafe is an established movement that empowers communities with the ability to repair "objects of everyday life such as electrical and mechanical devices, computers, bicycles, clothing, and other items." [[4](https://en.wikipedia.org/wiki/Repair_Caf%C3%A9)]
 
-A Repair Cafe was started in Beacon in 2016 [[5](http://www.repaircafehv.org/beacon)] and was active for several years, but is now dormant. Our plan will create a perpetual Repair Cafe that is able to leverage, and be leveraged by, the <a href="#electronics-recycling-and-recovery-hub">Electronics Recycling and Recovery Hub</a> and <a href="#materials-and-tool-depot">Materials and Tool Depot</a>.
+A Repair Cafe was started in Beacon in 2016 [[5](http://www.repaircafehv.org/beacon)] and was active for several years, but is now dormant. Our plan will create a perpetual Repair Cafe that is able to leverage, and be leveraged by, the <a href="#electronics-recycling-and-recovery-hub">Electronics Recycling and Recovery Hub</a> and <a href="#materials-and-tool-depot">Materials and Tool Depot</a>. The <a href="#interface-research-lab">Interface Research Lab</a>'s digital fabrication capabilities can be leveraged to produce replacement parts.
 
 
 ### Electronics Recycling and Recovery Hub
@@ -57,7 +38,7 @@ We will serve as a community hub for the disposal of electronics such as compute
 
 #### Disassembly Workshops
 
-We will hold disassembly workshops in which community members are invited to take apart a variety of items, that have been slated for salvage by the Electronics Recycling and Recovery Hub, in order to extract still-useful components, gain a valuable, hands-on understanding of the design and construction of everyday objects, and for the general joy of taking things apart, a practice which is often cited by professional engineers, designers, and inventors as being a formative part of their childhoods. 
+We will hold disassembly workshops in which community members are invited to take apart a variety of items, that have been slated for salvage by the Electronics Recycling and Recovery Hub, in order to extract still-useful components, gain valuable, hands-on understanding in the design and construction of everyday objects, and for the general joy of taking things apart, a practice which is often cited by professional engineers, designers, and inventors as being a formative part of their childhoods. 
 
 ### Plastic Waste Collection Hub
 
@@ -99,6 +80,26 @@ So much of our modern social and productive lives rely on information technology
 We will create a community technology education and digital fabrication facility which, in many ways, resembles a typical makerspace [[8](https://www.makerspaces.com/what-is-a-makerspace/)], whose primary function is to facilitate community access to specialized tools and materials, but will differ in its project-driven nature and primary motivation "to help prepare our community for the future of work and industry through education in the concepts and tools of modern technology and participation in an exploratory process of new, local industry creation." [[9](https://irl.beaconny.net/#motivation)]
 
 More information about the Interface Research Lab can be found at: [https://irl.beaconny.net/](https://irl.beaconny.net/)
+
+
+## Criticism of Existing Initiatives
+
+Despite the fact that Empire State Development previously accepted a 2019 proposal from Urban Green Food [[1](https://esd.ny.gov/esd-media-center/press-releases/beacon-redevelopment-dutchess-county)] for the redevelopment of this property, no apparent progress has been made toward the realization of this plan, which focuses on conventional commercial and tourism-centric development, as opposed to the community-centric purposes that this document proposes. Complicating the realization of the Urban Green Food plan is the lack of convenient vehicular access to this property, with the SW approach of Matteawan Rd. as the only public ingress. Mayor Lee Kyriacou has proposed to address this through the construction of a new road [[2](https://highlandscurrent.org/2022/08/05/progress-slow-at-camp-beacon/)]:
+
+> Under Kyriacou’s plan, a road would be constructed from Route 52, diverging near the long driveway that leads to the Chemprene manufacturing facility, winding around the perimeter of the prison’s land and connecting with Matteawan Road, creating another point of entry to Camp Beacon.
+
+...
+
+> For the proposal to move forward, he hopes the state will provide its $6 million for the road.
+
+...
+
+> “My focus is on doing the one thing that would change the potential for that site, which is road access,” Kyriacou said. “Anything that follows that would be a big plus.”
+
+We contend that the existing location and degree of accessibility is adequate to accommodate a local, community-centric purpose, making it possible to instead apply that $6M, which the state has allocated to support redevelopment of the site, toward the material development of the proposal itself.
+
+At a recent City Council meeting [[3](https://www.youtube.com/watch?v=vR5edWUJAYc&t=1217s)], a Beacon resident expressed disappointment over the lack of progress at the site and advocated that the City of Beacon take control of the Beacon Correctional Facility property:
+> Rather than stockpiling more stores for our out-of-town visitors, or waiting for yet another Request for Proposal from the state to be awarded to yet another outside developer stepping in to tell us what they will do, we need to do it ourselves together. We need to create space to grow food and make things, create alternative career paths for our kids and build some resilience into our economy that does not rely exclusively on out-of-town visitors.
 
 
 ## Contact
