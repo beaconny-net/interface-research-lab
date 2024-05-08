@@ -67,7 +67,7 @@ We will establish relationships with the local library, schools, government, bus
 
 ### Community Computing Cluster
 
-We will assemble a local cloud computing cluster from donated and/or new hardware and provide information and guidance to the community on why they would want to use it, what types of things they can do with it, and how to access it remotely from their computers and mobile devices via the Internet. This cluster will run the [OpenStack](https://www.openstack.org/) open-source cloud computing infrastructure software and other open-source web technologies in order to provide the opportunity for community members to learn the inner workings of the platform and contribute changes that extend or correct its functionality. In addition to providing an environment for community members to learn about and experiment with software development and deployment, this cluster will provide free community website, web application, and file hosting, as well as an IOT (Internet of Things) hub that allows for communication and interaction with fun physical devices located within the community.
+We will assemble a local cloud computing cluster from donated and/or new hardware and provide information and guidance to the community on the hows and whys of using it. This cluster will provide public access to a vast array of open source technologies to enable the local hosting of websites and files, forums and blogs, data access portals, and other useful applications. Community members will be able leverage this cluster as a software development and operations learning environment, and as a place for experienced developers to contribute to local, public-good projects.
 
 
 ### Game Design Workshops and Arcade Machine Fabrication
