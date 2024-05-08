@@ -80,11 +80,6 @@ We will conduct video game design workshops that instruct how to create a video 
 We will conduct robot design and building workshops that combine popular construction toys (e.g. Lego, Erector Set) with low-cost, commodity mechanical and electrical components in a collaborative effort to build fun and useful robots. One thematic focus will be on robots that can be used in a competitive capacity, around which we will organize and host public competitions.
 
 
-## Funding
-
-The Interface Research Lab is part of the [Beacon Community Network](https://opencollective.com/beacon-community-network) 501(c)(3) Collective. If you’d like to support this project, please [donate here](https://opencollective.com/beacon-community-network/projects/interface-research-lab/donate).
-
-
 ## Get Involved
 
 We need your local expertise and talent:
@@ -104,7 +99,7 @@ IRL is included as a component in the [Beacon Correctional Facilty Redevelopment
 
 ## People
 
-![derek_enos](https://user-images.githubusercontent.com/585182/177006172-6c305288-6d62-4b7b-b671-1e32a00c5849.png) 
+![derek_enos](https://user-images.githubusercontent.com/585182/177006172-6c305288-6d62-4b7b-b671-1e32a00c5849.png)
 
 ### Derek Enos
 
