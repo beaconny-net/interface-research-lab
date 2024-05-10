@@ -38,7 +38,7 @@ We will serve as a community hub for the disposal of electronics such as compute
 
 #### Disassembly Workshops
 
-We will hold disassembly workshops in which community members are invited to take apart a variety of items, that have been slated for salvage by the Electronics Recycling and Recovery Hub, in order to extract still-useful components, gain valuable, hands-on understanding in the design and construction of everyday objects, and for the general joy of taking things apart, a practice which is often cited by professional engineers, designers, and inventors as being a formative part of their childhoods. 
+We will hold disassembly workshops in which community members are invited to take apart a variety of items, that have been slated for salvage by the Electronics Recycling and Recovery Hub, in order to extract still-useful components, gain valuable, hands-on understanding in the design and construction of everyday objects, and for the general joy of taking things apart, a practice which is often cited by professional engineers, designers, and inventors as being a formative part of their childhoods.
 
 ### Plastic Waste Collection Hub
 
@@ -104,7 +104,8 @@ At a recent City Council meeting [[3](https://www.youtube.com/watch?v=vR5edWUJAY
 
 ## Contact
 
-Join the discussion in the [Beacon Computing Club](https://computing.beaconny.net/) forum or email questions, comments, and thoughts to: [irl@beaconny.net](mailto:irl@beaconny.net)
+
+Join the discussion in the [Beacon Future](https://future.beaconny.net/) forum (email [future@beaconny.net](mailto:future@beaconny.net) for an invite) or email questions, comments, and thoughts to:  [irl@beaconny.net](mailto:irl@beaconny.net)
 
 
 ## People
@@ -133,4 +134,3 @@ Derek is a software engineer (currently @ [Internet Archive](https://archive.org
 7. [https://beaconlibraryofthings.weebly.com/](https://beaconlibraryofthings.weebly.com/)
 8. [https://www.makerspaces.com/what-is-a-makerspace/](https://www.makerspaces.com/what-is-a-makerspace/)
 9. [https://irl.beaconny.net/#motivation](https://irl.beaconny.net/#motivation)
-

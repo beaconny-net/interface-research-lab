@@ -2,7 +2,7 @@
 
 # Interface Research Lab
 
-Join the discussion in the [Beacon Computing Club](https://computing.beaconny.net/) forum or email questions, comments, and thoughts to:  [irl@beaconny.net](mailto:irl@beaconny.net)
+Join the discussion in the [Beacon Future](https://future.beaconny.net/) forum (email [future@beaconny.net](mailto:future@beaconny.net) for an invite) or email questions, comments, and thoughts to:  [irl@beaconny.net](mailto:irl@beaconny.net)
 
 
 ## Abstract
@@ -91,7 +91,7 @@ We need your local expertise and talent:
 - Designers (Visual, Product, Interaction, Game)
 - Engineers (Electrical, Mechanical, Software, Materials, Chemical)
 
-please join the discussion in the [Beacon Computing Club](https://computing.beaconny.net/) forum or email [irl@beaconny.net](mailto:irl@beaconny.net) to get involved.
+please join the discussion in the [Beacon Future](https://future.beaconny.net/) forum (email [future@beaconny.net](mailto:future@beaconny.net) for an invite) or email [irl@beaconny.net](mailto:irl@beaconny.net) to get involved.
 
 ## Related
 
