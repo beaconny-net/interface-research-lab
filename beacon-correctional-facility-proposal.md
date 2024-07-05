@@ -103,7 +103,7 @@ At a recent City Council meeting [[3](https://www.youtube.com/watch?v=vR5edWUJAY
 ## Contact
 
 
-Join the discussion in the [Beacon Future](https://future.beaconny.net/) forum (email [future-invite@beaconny.net](mailto:future-invite@beaconny.net) for an invite) or email questions, comments, and thoughts to: irl@beaconny.net](mailto:irl@beaconny.net)
+Join the discussion in the [Beacon Future](https://future.beaconny.net/) forum (email [future-invite@beaconny.net](mailto:future-invite@beaconny.net) for an invite) or email questions, comments, and thoughts to: [irl@beaconny.net](mailto:irl@beaconny.net)
 
 
 ## People
