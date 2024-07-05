@@ -1,8 +1,8 @@
-![logo](https://user-images.githubusercontent.com/585182/174485096-53d541dc-fbc7-44b5-b928-bd252199de50.png)
+![logo](/images/irl-logo.png)
 
 # Interface Research Lab
 
-Join the discussion in the [Beacon Future](https://future.beaconny.net/) forum (email [future@beaconny.net](mailto:future@beaconny.net) for an invite) or email questions, comments, and thoughts to:  [irl@beaconny.net](mailto:irl@beaconny.net)
+Join the discussion in the [Beacon Future](https://future.beaconny.net/) forum (email [future-invite@beaconny.net](mailto:future-invite@beaconny.net) for an invite) or email questions, comments, and thoughts to:  [irl@beaconny.net](mailto:irl@beaconny.net)
 
 
 ## Abstract
@@ -91,7 +91,7 @@ We need your local expertise and talent:
 - Designers (Visual, Product, Interaction, Game)
 - Engineers (Electrical, Mechanical, Software, Materials, Chemical)
 
-please join the discussion in the [Beacon Future](https://future.beaconny.net/) forum (email [future@beaconny.net](mailto:future@beaconny.net) for an invite) or email [irl@beaconny.net](mailto:irl@beaconny.net) to get involved.
+please join the discussion in the [Beacon Future](https://future.beaconny.net/) forum (email [future-invite@beaconny.net](mailto:future-invite@beaconny.net) for an invite) or email [irl@beaconny.net](mailto:irl@beaconny.net) to get involved.
 
 ## Related
 
@@ -99,7 +99,7 @@ IRL is included as a component in the [Beacon Correctional Facilty Redevelopment
 
 ## People
 
-![derek_enos](https://user-images.githubusercontent.com/585182/177006172-6c305288-6d62-4b7b-b671-1e32a00c5849.png)
+![derek_enos](/images/derek.png)
 
 ### Derek Enos
 

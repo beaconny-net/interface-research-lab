@@ -2,9 +2,7 @@
 title: Beacon Correctional Facility Redevelopment Proposal
 ---
 
-<img src="https://user-images.githubusercontent.com/585182/185205618-9cb7db0a-0f9f-47ff-8c13-76ad9d0533d2.png"
-     style="width: 100%;"
-     >
+<img src="/images/bcf-banner.png" style="width: 100%;">
 
 ## Abstract
 
@@ -105,12 +103,12 @@ At a recent City Council meeting [[3](https://www.youtube.com/watch?v=vR5edWUJAY
 ## Contact
 
 
-Join the discussion in the [Beacon Future](https://future.beaconny.net/) forum (email [future@beaconny.net](mailto:future@beaconny.net) for an invite) or email questions, comments, and thoughts to:  [irl@beaconny.net](mailto:irl@beaconny.net)
+Join the discussion in the [Beacon Future](https://future.beaconny.net/) forum (email [future-invite@beaconny.net](mailto:future-invite@beaconny.net) for an invite) or email questions, comments, and thoughts to: irl@beaconny.net](mailto:irl@beaconny.net)
 
 
 ## People
 
-![derek_enos](https://user-images.githubusercontent.com/585182/177006172-6c305288-6d62-4b7b-b671-1e32a00c5849.png)
+![derek_enos](/images/derek.png)
 
 ### Derek Enos
 
