@@ -1,1 +1,1 @@
-![sketch of futuristic hudson valley rivier cities as nodes in a regional network](/images/ccl_banner.wepb)
+![sketch of futuristic hudson valley rivier cities as nodes in a regional network](/images/ccl_banner.webp)
